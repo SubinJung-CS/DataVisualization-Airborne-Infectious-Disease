@@ -12,3 +12,7 @@ The data given are a set of outputs from a DSTL/PHE supercomputer simulation of 
 - Uncertainty statistics per cell across the four runs: mean, variance, standard deviation, index of dispersion and coefficient of variation.
 
 The figure below is the final visualization model using PowerBI and the interactive features are demonstrated here: https://youtu.be/2fIA__qbJR8 . For more details, please have a look at the uploaded report in the repository.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82886152/219159190-1c79c1d3-48eb-4702-9767-18ded7f651f3.png">
+</p>
